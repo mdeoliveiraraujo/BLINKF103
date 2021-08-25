@@ -1,0 +1,12 @@
+MPU6050.c:42:6:MPU6050_Init	96	static
+MPU6050.c:75:6:MPU6050_Retrieve_Data	48	static
+MPU6050.c:104:6:MPU6050_Read_Accel	32	static
+MPU6050.c:115:6:MPU6050_Read_Gyro	32	static
+MPU6050.c:127:14:wrap	16	static
+MPU6050.c:133:6:map	24	static
+MPU6050.c:138:6:setGyroOffsets	24	static
+MPU6050.c:144:6:setAccOffsets	24	static
+MPU6050.c:150:6:setFilterGyroCoef	24	static
+MPU6050.c:158:6:setFilterAccCoef	16	static
+MPU6050.c:163:6:calcOffsets	56	static
+MPU6050.c:202:6:MPU6050_Update	56	static

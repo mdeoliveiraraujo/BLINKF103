@@ -1,0 +1,10 @@
+ads1256.c:91:6:waitforDRDY	0	static,ignoring_inline_asm
+ads1256.c:101:6:DRDY_Interuppt	0	static
+ads1256.c:105:6:HAL_GPIO_EXTI_Callback	0	static
+ads1256.c:116:6:ADS1256_Reset	16	static
+ads1256.c:132:9:GetRegisterValue	24	static
+ads1256.c:152:6:SendCMD	16	static
+ads1256.c:166:6:SetRegisterValue	88	static
+ads1256.c:15:6:initADS	16	static
+ads1256.c:203:10:read_Value	32	static
+ads1256.c:253:10:ReverseBytes	0	static
