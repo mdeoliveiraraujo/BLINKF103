@@ -1,6 +1,6 @@
 # BLINKF103
  
-That's the same as the _Angle_Measure_ repo without the MPU6050 implementation.
+That's the same as the _Angle_Measure_ repo without the MPU6050 implementation. Please, notice that *I couldn't care less about this project's name* - I named it "BLINKF103" 'cause function (at least initially) was to toggle a LED (as the blink example in Arduino). It evolved to a control board firmware from there.
 
 Shoutout to those who were here before me:
 
